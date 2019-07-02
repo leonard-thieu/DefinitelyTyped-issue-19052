@@ -1,0 +1,11 @@
+{
+  "name": "DefinitelyTyped-issue-19052",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "tsc"
+  },
+  "devDependencies": {
+    "@types/datatables.net": "1.10.17",
+    "typescript": "3.5.2"
+  }
+}
